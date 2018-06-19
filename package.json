@@ -1,0 +1,14 @@
+{
+  "name": "stream-adventure",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "Node.js",
+    "stream"
+  ],
+  "author": "Chandan Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "through2": "^2.0.3"
+  }
+}
